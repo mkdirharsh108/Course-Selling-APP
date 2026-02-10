@@ -7,7 +7,7 @@ courseRouter.get("/preview", function(req, res){
     })
 });
 
-courseRouter.get("/purchase", function(req, res){
+courseRouter.get("/pu   rchase", function(req, res){
     res.json({
         message : "purchase krlo"
     })
