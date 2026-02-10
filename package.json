@@ -1,0 +1,25 @@
+{
+  "name": "course-selling-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkdirharsh108/Course-Selling-APP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkdirharsh108/Course-Selling-APP/issues"
+  },
+  "homepage": "https://github.com/mkdirharsh108/Course-Selling-APP#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.1.6"
+  }
+}
