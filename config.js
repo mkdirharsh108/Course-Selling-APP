@@ -1,0 +1,8 @@
+const JWT_USER_PASSWORD = "aldaid22334";
+const JET_ADMIN_PASSWORD =  "1231313442";
+
+
+module.exports = {
+    JWT_USER_PASSWORD,
+    JET_ADMIN_PASSWORD
+}
