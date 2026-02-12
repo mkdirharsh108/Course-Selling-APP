@@ -1,4 +1,4 @@
-📚 Course Selling App
+###📚 Course Selling App
 
 A backend-focused course selling application built using Express.js, MongoDB, and JWT authentication.
 This project demonstrates structured backend development, secure authentication workflows, middleware usage, and modular route handling.
