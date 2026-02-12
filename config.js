@@ -1,8 +1,8 @@
-const JWT_USER_PASSWORD = "aldaid22334";
-const JET_ADMIN_PASSWORD =  "1231313442";
+const JWT_USER_PASSWORD = process.env.JWT_USER_PASSWORD;
+const JWT_ADMIN_PASSWORD =  process.env.JWT_ADMIN_PASSWORD;
 
 
 module.exports = {
     JWT_USER_PASSWORD,
-    JET_ADMIN_PASSWORD
+    JWT_ADMIN_PASSWORD
 }
